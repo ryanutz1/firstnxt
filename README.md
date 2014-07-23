@@ -1,3 +1,3 @@
 firstnxt
 ========
-Using the encoder to turn a motor a specific amount of degrees. 
+Using the encoder to turn a motor 720 degrees. 
