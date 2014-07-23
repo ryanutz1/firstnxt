@@ -7,7 +7,7 @@ nMotorEncoder[motorA] = 0;
 
 	while (nMotorEncoder[motorA] < 720)
 		{
-		motor[motorA] = 100;
+		motor[motorA] = 100; //Make the motor turn! :D
 		}
 	motor[motorA] = 0;
 
